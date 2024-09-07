@@ -1,0 +1,176 @@
+42438895424442
+jerrys_Library
+Amass_XT60PW-M
+
+
+0
+4
+3
+jerrys_Library
+BarrelJack_GCT_DCJ200-10-A_Horizontal
+Barrel jack connector (5.5 mm outer diameter, 2.05 inner diameter ), https://gct.co/files/drawings/dcj200-10.pdf
+connector barrel jack
+0
+3
+3
+jerrys_Library
+BatteryHolder_BH800S-ND
+http://www.keyelco.com/product-pdf.cfm?p=719
+Keystone type 103 battery holder
+0
+2
+2
+jerrys_Library
+BatteryHolder_Keystone_103_1x20mm
+http://www.keyelco.com/product-pdf.cfm?p=719
+Keystone type 103 battery holder
+0
+2
+2
+jerrys_Library
+Feather_RP2040
+Through hole straight pin header, 1x19, 2.54mm pitch, single row
+Through hole pin header THT 1x19 2.54mm single row
+0
+28
+28
+jerrys_Library
+Heatsink_Audio_Amp
+Heatsink, StoneCold HS, https://www.tme.eu/Document/da20d9b42617e16f6777c881dc9e3434/hs-130.pdf
+heatsink
+0
+2
+1
+jerrys_Library
+Heatsink_Stonecold_HS-130_30x12mm_2xFixation2.5mm
+Heatsink, StoneCold HS, https://www.tme.eu/Document/da20d9b42617e16f6777c881dc9e3434/hs-130.pdf
+heatsink
+0
+2
+1
+jerrys_Library
+Hirose_FH12-18S-0.5SH_1x18-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-18S-0.5SH, 18 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+20
+19
+jerrys_Library
+INA228_BRD
+Through hole straight pin header, 1x19, 2.54mm pitch, single row
+Through hole pin header THT 1x19 2.54mm single row
+0
+11
+11
+jerrys_Library
+PinHeader_1x19_P2.54mm_Vertical
+Through hole straight pin header, 1x19, 2.54mm pitch, single row
+Through hole pin header THT 1x19 2.54mm single row
+0
+19
+19
+jerrys_Library
+Potentiometer_Bourns_3386P_Vertical
+Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer vertical Bourns 3386P
+0
+3
+3
+jerrys_Library
+Potentiometer_Trimmer_vertical
+Potentiometer, vertical, Vishay T7-YA Single, http://www.vishay.com/docs/51015/t7.pdf
+Potentiometer vertical Vishay T7-YA Single
+0
+3
+3
+jerrys_Library
+Potentiometer_Trimmer_vertical2
+Potentiometer, vertical, Vishay T7-YA Single, http://www.vishay.com/docs/51015/t7.pdf
+Potentiometer vertical Vishay T7-YA Single
+0
+3
+3
+jerrys_Library
+SC70-5
+
+
+0
+5
+5
+jerrys_Library
+SC70-6
+
+
+0
+6
+6
+jerrys_Library
+SWR-BN43-202
+
+
+0
+8
+8
+jerrys_Library
+SW_DPDT_CK_JS202011JCQN
+Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf
+switch DPDT SMT
+0
+6
+6
+jerrys_Library
+SW_PUSH_LED_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+6
+4
+jerrys_Library
+Transformer_Coilcraft_CST1
+Current sense transformer, SMD, 8.0x8.13x5.3mm (https://www.coilcraft.com/pdfs/cst.pdf)
+Transformer current sense SMD
+0
+8
+8
+jerrys_Library
+Transformer_Coilcraft_PWB1010
+Current sense transformer, SMD, 8.0x8.13x5.3mm (https://www.coilcraft.com/pdfs/cst.pdf)
+Transformer current sense SMD
+0
+6
+6
+jerrys_Library
+banana_jack
+
+
+0
+1
+1
+jerrys_Library
+esespi
+Hirose FH12, FFC/FPC connector, FH12-18S-0.5SH, 18 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+20
+19
+jerrys_Library
+esp32
+Through hole straight pin header, 1x19, 2.54mm pitch, single row
+Through hole pin header THT 1x19 2.54mm single row
+0
+38
+38
+jerrys_Library
+touch_pad
+
+
+0
+1
+1
+jerrys_Library
+va1210
+
+
+0
+12
+12
